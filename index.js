@@ -3,5 +3,7 @@ function shout(string){
 }
 
 function whisper(string){
+  if whisper === lowercase 
+  
   return whisper.toLowerCase()
 }
