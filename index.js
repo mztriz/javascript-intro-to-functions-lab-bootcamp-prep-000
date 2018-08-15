@@ -3,10 +3,5 @@ function shout(string){
 }
 
 function whisper(string){
-  if (whisper === lowercase) {
-    return whisper
-  }
-  else{
-   return whisper.toLowerCase()
-  }
+  return string.toLowerCase()
 }
