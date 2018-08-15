@@ -6,6 +6,7 @@ function whisper(string){
   if (whisper === lowercase) {
     return whisper
   }
-  
-  return whisper.toLowerCase()
+  else{
+   return whisper.toLowerCase()
+  }
 }
